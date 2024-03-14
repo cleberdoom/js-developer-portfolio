@@ -33,8 +33,9 @@
     border-width: thick;
 }
 
-.header .title{
+.header .title h1{
     text-align: center;
+    font-size: 2rem;
 }
 
 .info{
@@ -139,7 +140,7 @@ display: flex;
 }
 @media only screen and (min-width:1024px) {
 
-    .projects{
+    #projects{
         display: flex;}
     
 }
