@@ -62,14 +62,19 @@
 
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
+      "name": "Landing Page",
+      "url": "https://github.com/cleberdoom/project-landing-page",
+      "description": "Projeto de uma landing page de restaurante feita no curso da The Odin Project"
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
+      "name": "Death Stranding",
+      "url": "https://github.com/cleberdoom/DS-SITE",
+      "description": "Projeto pessoal , feito um fã-site para o jogo Death Stranding"
+    },
+    {
+      "name": "Pokedéx",
+      "url": "https://github.com/cleberdoom/js-developer-pokedex",
+      "description": "Projeto feito no curso de Javascript da Dio, onde deveriamos consumir dados de uma api e criar um layout"
     }
   ],
   "professionalExperience": [
