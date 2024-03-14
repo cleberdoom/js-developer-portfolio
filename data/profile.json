@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Cleber Tavares",
+  "photo": "https://avatars.githubusercontent.com/u/148928485?v=4",
+  "job": "Desenvolvedor Junior",
+  "location": "Belo Horizonte - MG",
+  "phone": "(31) 98359-0426",
+  "mail": "cleber.doom@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -41,10 +41,9 @@
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português BR (Nativo)",
+    "Inglês (Fluente)",
+    "Espanhol (Iniciante)"
   ],
   "portfolio": [
     {
