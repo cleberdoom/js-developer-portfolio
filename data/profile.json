@@ -45,6 +45,26 @@
     "Inglês (Fluente)",
     "Espanhol (Iniciante)"
   ],
+
+  "education": [
+    { 
+      "school": "Faculdade Estácio de Sá",
+      "course": "Analise e Desenvolvimento de Sistemas / conclusão em: 06/2025"
+    },
+    { "school": "Faculdade Estácio de Sá",
+    "course": "Analise e Desenvolvimento de Sistemas / conclusão em: 06/2025"
+  }
+  ],
+
+
+
+
+
+
+
+
+
+
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
