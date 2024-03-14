@@ -34,7 +34,7 @@
     height: 1rem;
     background-image: no-repeat;
     background-size: contain;
-    background-image: url(/assets/img/icons/drop.svg);
+    background-image: url('https://raw.githubusercontent.com/cleberdoom/js-developer-portfolio/main/assets/img/icons/drop.svg');
     width: 24px;
     height: 24px;
     transition: 0.25s;

@@ -75,16 +75,16 @@
 }
 
 .info .job::before{
-    background-image:url('/assets/img/icons/job.svg');
+    background-image:url('https://raw.githubusercontent.com/cleberdoom/js-developer-portfolio/main/assets/img/icons/job.svg');
 }
 .info .location::before{
-    background-image:url('/assets/img/icons/location.svg');
+    background-image:url('https://raw.githubusercontent.com/cleberdoom/js-developer-portfolio/main/assets/img/icons/location.svg');
 }
 .info .phone::before{
-    background-image:url('/assets/img/icons/phone.svg');
+    background-image:url('https://raw.githubusercontent.com/cleberdoom/js-developer-portfolio/main/assets/img/icons/phone.svg');
 }
 .info .mail::before{
-    background-image:url('/assets/img/icons/mail.svg');
+    background-image:url('https://raw.githubusercontent.com/cleberdoom/js-developer-portfolio/main/assets/img/icons/mail.svg');
 }
 
 
