@@ -51,18 +51,13 @@
       "school": "Faculdade Estácio de Sá",
       "course": "Analise e Desenvolvimento de Sistemas / conclusão em: 06/2025"
     },
-    { "school": "Faculdade Estácio de Sá",
-    "course": "Analise e Desenvolvimento de Sistemas / conclusão em: 06/2025"
-  }
+    { "school": "Alura",
+    "course": "Oracle Next Education - Trilha Front End"
+    }
+    { "school": "DIO - Digital Innovation One",
+    "course": "Formação Javascript Developer"
+    }
   ],
-
-
-
-
-
-
-
-
 
 
   "portfolio": [
